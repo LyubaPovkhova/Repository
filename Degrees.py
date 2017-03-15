@@ -23,7 +23,7 @@ A=list(dict3.keys())
 B=list(dict3.values())
 with open('Results.txt','a') as r:
     for i in range (len(A)):
-        r.write(str(A[i])+str(B[i])+' '+'\n')
+        r.write(str(A[i])+ '  '+str(B[i])+'\n')
         i+=1
 
 f.close()
