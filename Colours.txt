@@ -1,0 +1,6 @@
+579,1 yellow1
+577,0 yellow2
+546,1 green
+491,6 cyan
+435,8 blue
+404,7 purple
